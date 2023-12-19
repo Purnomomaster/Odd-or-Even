@@ -1,0 +1,7 @@
+print("Welcome to the oddven checker")
+num = input("What number are you thinking?: ")
+
+if int(i) % 2 == 0:
+  print("That's an even number")
+else:
+  print("That's an odd number")
